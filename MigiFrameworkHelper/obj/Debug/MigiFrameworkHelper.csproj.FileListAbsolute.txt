@@ -1,0 +1,5 @@
+J:\Programming\GitHub\Framework\MigiFrameworkHelper\bin\Debug\MigiFrameworkHelper.dll
+J:\Programming\GitHub\Framework\MigiFrameworkHelper\bin\Debug\MigiFrameworkHelper.pdb
+J:\Programming\GitHub\Framework\MigiFrameworkHelper\obj\Debug\MigiFrameworkHelper.csprojResolveAssemblyReference.cache
+J:\Programming\GitHub\Framework\MigiFrameworkHelper\obj\Debug\MigiFrameworkHelper.dll
+J:\Programming\GitHub\Framework\MigiFrameworkHelper\obj\Debug\MigiFrameworkHelper.pdb
