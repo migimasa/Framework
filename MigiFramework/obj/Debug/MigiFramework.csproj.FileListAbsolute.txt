@@ -3,3 +3,6 @@ J:\Programming\GitHub\Framework\MigiFramework\bin\Debug\MigiFramework.pdb
 J:\Programming\GitHub\Framework\MigiFramework\obj\Debug\MigiFramework.csprojResolveAssemblyReference.cache
 J:\Programming\GitHub\Framework\MigiFramework\obj\Debug\MigiFramework.dll
 J:\Programming\GitHub\Framework\MigiFramework\obj\Debug\MigiFramework.pdb
+J:\Programming\GitHub\Framework\MigiFramework\bin\Debug\Ninject.xml
+J:\Programming\GitHub\Framework\MigiFramework\bin\Debug\Dapper.pdb
+J:\Programming\GitHub\Framework\MigiFramework\bin\Debug\Dapper.xml
