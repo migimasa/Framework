@@ -1,0 +1,11 @@
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\obj\Debug\MigiFramework.Tests.csprojResolveAssemblyReference.cache
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFramework.Tests.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFramework.Tests.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFramework.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFrameworkHelper.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\nunit.framework.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFrameworkHelper.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\MigiFramework.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\nunit.framework.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\obj\Debug\MigiFramework.Tests.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\obj\Debug\MigiFramework.Tests.pdb
