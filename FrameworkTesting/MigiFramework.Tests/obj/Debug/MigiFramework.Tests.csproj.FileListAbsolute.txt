@@ -9,3 +9,9 @@ J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\M
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\nunit.framework.xml
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\obj\Debug\MigiFramework.Tests.dll
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\obj\Debug\MigiFramework.Tests.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.Core.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.Core.pdb
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.Core.xml
