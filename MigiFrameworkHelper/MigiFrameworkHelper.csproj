@@ -34,12 +34,17 @@
       <HintPath>..\..\League_Manager\RCHLeagueManager\packages\Dapper.1.42\lib\net40\Dapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="DapperWrapper, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\ComicBookSubscriptionManager\SubscriptionManager\packages\DapperWrapper.0.3.0.0\lib\net40\DapperWrapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <HintPath>..\..\League_Manager\RCHLeagueManager\packages\Ninject.3.2.2.0\lib\net40\Ninject.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,8 +52,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Geography.cs" />
     <Compile Include="Math.cs" />
+    <Compile Include="MvcUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search.cs" />
+    <Compile Include="StringHelper.cs" />
     <Compile Include="Types.cs" />
   </ItemGroup>
   <ItemGroup>

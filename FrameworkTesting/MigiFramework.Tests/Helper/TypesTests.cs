@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using Migi.Framework.Helper;
 
-namespace MigiFramework.Tests
+namespace MigiFramework.Tests.Helper
 {
     [TestFixture]
     public class TypesTests

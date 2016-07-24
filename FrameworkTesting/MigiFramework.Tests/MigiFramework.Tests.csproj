@@ -64,8 +64,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Helper\SearchTests.cs" />
+    <Compile Include="Helper\TypesTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TypesTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\MigiFrameworkHelper\MigiFrameworkHelper.csproj">

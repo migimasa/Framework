@@ -34,6 +34,10 @@
       <HintPath>..\..\League_Manager\RCHLeagueManager\packages\Dapper.1.42\lib\net40\Dapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="DapperWrapper, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\ComicBookSubscriptionManager\SubscriptionManager\packages\DapperWrapper.0.3.0.0\lib\net40\DapperWrapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <HintPath>..\..\League_Manager\RCHLeagueManager\packages\Ninject.3.2.2.0\lib\net40\Ninject.dll</HintPath>
       <Private>True</Private>
@@ -48,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\ChangeResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sql\IAccessLayerBase.cs" />
     <Compile Include="Sql\SqlClient.cs" />

@@ -15,3 +15,17 @@ J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\F
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.xml
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.Core.pdb
 J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\FluentAssertions.Core.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.Mvc.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.Razor.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.Mvc.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.Razor.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+J:\Programming\GitHub\Framework\FrameworkTesting\MigiFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
